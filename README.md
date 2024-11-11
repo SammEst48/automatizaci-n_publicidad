@@ -8,11 +8,11 @@ Ayudar a los gerentes de planificación de videos publicitarios de la agencia St
   
 ## Dataset
 `trending_by_time`. Esta es la estructura:
-    - `record_id`: la clave primaria
-    - `region`: país/región geográfica
-    - `trending_date` fecha y hora
-    - `category_title` categoría del video
-    - `videos_count` número de videos en la sección de tendencias
+- `record_id`: la clave primaria
+- `region`: país/región geográfica
+- `trending_date` fecha y hora
+- `category_title` categoría del video
+- `videos_count` número de videos en la sección de tendencias
 
 ## Herramientas utilizadas
 - **Jupyter Notebooks**: para análisis interactivo.
